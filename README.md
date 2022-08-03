@@ -1,0 +1,1 @@
+![bildiirm](bildirim.png);
